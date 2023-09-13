@@ -1,3 +1,3 @@
 # GitDemo
 My first Repository
-Developer-Sachin Nehra
+Developer-Sachin Choudhary
